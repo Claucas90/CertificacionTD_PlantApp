@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">PlantAppClaucas</string>
+    <string name="app_name">PlantApp</string>
+    <string name="Titulofrag1">Plantas</string>
+    <string name="action_settings">Settings</string>
+    <string name="pantalla1_fragment_label">Listado de plantas</string>
+    <string name="pantalla2_fragment_label">Descripcion producto</string>
+    <string name="id">id</string>
+    <string name="Name">Nombre</string>
+    <string name="Tipo">Tipo</string>
+    <string name="Description">Descripcion</string>
+    <string name="enviamail">Enviar Correo Electrónico</string>
+    <string name="nada">nada</string>
+    <string name="cerrar">Cerrar App</string>
 </resources>
