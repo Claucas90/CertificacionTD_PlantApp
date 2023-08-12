@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nombre": "Rosa",
+        "tipo": "Flor",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Rosa_%27Matador%27_%28actm%29.jpg/640px-Rosa_%27Matador%27_%28actm%29.jpg",
+        "descripcion": "La rosa es una hermosa flor conocida por su amplia variedad de colores y aromas cautivadores. Es símbolo de amor y belleza en muchas culturas."
+    },
+    {
+        "id": 2,
+        "nombre": "Lavanda",
+        "tipo": "Hierba",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fiori_di_Lavanda.jpg/640px-Fiori_di_Lavanda.jpg",
+        "descripcion": "La lavanda es una hierba aromática famosa por su fragancia relajante y propiedades medicinales. Sus flores de color violeta la hacen una planta encantadora."
+    },
+    {
+        "id": 3,
+        "nombre": "Palmera",
+        "tipo": "Árbol",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Palmera_en_Fort%C3%ADn_Olavarr%C3%ADa_%28planta_07%29_foto_05.JPG/640px-Palmera_en_Fort%C3%ADn_Olavarr%C3%ADa_%28planta_07%29_foto_05.JPG",
+        "descripcion": "Las palmeras son majestuosos árboles que evocan paisajes tropicales y playas paradisíacas. Son símbolo de exotismo y elegancia."
+    },
+    {
+        "id": 4,
+        "nombre": "Tulipán",
+        "tipo": "Flor",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Liriodendron_tulipifera_RH_%2819%29.jpg/640px-Liriodendron_tulipifera_RH_%2819%29.jpg",
+        "descripcion": "Los tulipanes son flores coloridas y elegantes originarias de Turquía. Son símbolo de la belleza efímera y han sido objeto de admiración durante siglos."
+    },
+    {
+        "id": 5,
+        "nombre": "Helecho",
+        "tipo": "Planta de Interior",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Fern_leaf_December.jpg/640px-Fern_leaf_December.jpg",
+        "descripcion": "Los helechos son plantas de interior muy populares debido a su follaje exuberante y elegante. Son excelentes para purificar el aire y agregar vida a los espacios interiores."
+    },
+    {
+        "id": 6,
+        "nombre": "Tomate",
+        "tipo": "Hortaliza",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tomate_Dorenia_15666.jpg/640px-Tomate_Dorenia_15666.jpg",
+        "descripcion": "El tomate es una hortaliza versátil y deliciosa, ampliamente utilizada en la cocina. Viene en diferentes variedades y colores, aportando sabor y nutrientes a las comidas."
+    },
+    {
+        "id": 7,
+        "nombre": "Aloe Vera",
+        "tipo": "Succulenta",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Aerial_view_of_aloe_vera_plant.jpg/640px-Aerial_view_of_aloe_vera_plant.jpg",
+        "descripcion": "El aloe vera es una suculenta conocida por sus propiedades medicinales y beneficios para la piel. Su gel se utiliza para aliviar quemaduras y picaduras."
+    },
+    {
+        "id": 8,
+        "nombre": "Pino",
+        "tipo": "Árbol",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Pino_podado.jpg/640px-Pino_podado.jpg",
+        "descripcion": "Los pinos son árboles perennes con agujas verdes y aromáticas. Son símbolo de resistencia y belleza natural, y se encuentran en diversas regiones del mundo."
+    },
+    {
+        "id": 9,
+        "nombre": "Caléndula",
+        "tipo": "Flor",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Calendula_flower_orange-yellow.jpg/640px-Calendula_flower_orange-yellow.jpg",
+        "descripcion": "La caléndula es una flor brillante y alegre conocida por sus propiedades medicinales y beneficios para la piel. Sus colores cálidos aportan alegría al jardín."
+    },
+    {
+        "id": 10,
+        "nombre": "Bambú",
+        "tipo": "Planta de Interior",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Pohon_Bambu_Kuning.jpg/640px-Pohon_Bambu_Kuning.jpg",
+        "descripcion": "El bambú es una planta de interior elegante y de crecimiento rápido. Su aspecto zen y suavidad lo convierten en un complemento ideal para la decoración."
+    }
+]
